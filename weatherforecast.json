@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-04-06T10:51:30.7257911-10:51",
+        "temperatureC": 52,
+        "temperatureF": 125,
+        "summary": "Mild"
+    },
+    {
+        "date": "2023-04-06T10:51:30.7257911-10:51",
+        "temperatureC": 36,
+        "temperatureF": 96,
+        "summary": "Warm"
+    },
+    {
+        "date": "2023-04-06T10:51:30.7257911-10:51",
+        "temperatureC": 39,
+        "temperatureF": 102,
+        "summary": "Cool"
+    },
+    {
+        "date": "2023-04-06T10:51:30.7257911-10:51",
+        "temperatureC": 10,
+        "temperatureF": 49,
+        "summary": "Bracing"
+    },
+    {
+        "date": "2023-04-06T10:51:30.7257911-10:51",
+        "temperatureC": -1,
+        "temperatureF": 31,
+        "summary": "Chilly"
+    }
+]
